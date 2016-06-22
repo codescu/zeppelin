@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Konuşmacı Başvuruları Başladı"
-date:   2014-07-21 09:00:00
+title:  "Çağrı"
+date:   2016-06-22 09:00:00
 isStaticPost: false
 ---
 Türkiye'de Internet ile ilgili grupları biraraya getirerek İnternet'i tüm boyutlarıyla tanıtmak, gelistirmek, tartışmak, İnternet teknolojileri aracılığı ile toplumsal verimliliği artırmak ve toplumun dikkatini olabildiğince bu yöne çekmek amaçlarıyla, 1995'den beri her yıl yapılan, ulusal boyutta bir konferans düzenlenmistir. Konferansa bildiri sunma, eğitim semineri verme ve tartışma grubu/açık oturum düzenleme şeklinde aktif katılım davet edilmektedir. Konferans kayıt olan dinleyicilere açıktır.
