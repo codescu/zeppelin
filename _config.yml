@@ -44,10 +44,10 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Anasayfa"}
  - {permalink: "/blog/call-for-papers", text: "Çağrı"}
- - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/speakers/", text: "Konuşmacılar"}
+# - {permalink: "/schedule/", text: "Program"}
+ #- {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/sponsors/", text: "Sponsorlar"}
- - {permalink: "/logistics/", text: "Ulaşım"}
+# - {permalink: "/logistics/", text: "Ulaşım"}
  - {permalink: "/contact/", text: "İletİşİm"}
 bottomNavigationLinks:
  - {link: "http://openconf.inet-tr.org.tr/openconf.php", text: "Konuşmacı Olun"}
