@@ -59,4 +59,16 @@ Bu yıl “ "Mobil Yaşam", "Sosyal Ağlar", "Yeni Medya", "Siber Güvenlik", "B
 * Siber Kültür
 * Nefret Söylemi
 * Oyun
+Konferans dili Türkce'dir. Bununla birlikte, ayrı bir oturumda sunulmak üzere Ingilizce bildiri başvuruları da kabul edilecektir. Başvuruları, tam metin bildirileri, seminer ve çalışma grubu önerilerini aşağıda tanımlanan şekilde 31 Ekim 2015'e kadar iletiniz. Lütfen http://inet-tr.org.tr/inetconf20/yazar.html sayfasını okuyunuz.
 
+Tüm başvuruların elektronik yapılması gerekir. Tam metni basvuru sırasında webten sunuyorsunuz. Başvuruyu daha sonra düzeltmek mümkündür. Ama, en azından genişletilmiş özetle başlayın.
+
+Klasik bildiri: Bilimsel yazım kuralları çercevesinde yazılmış geniş özet ya da tam bildiri metni, en fazla sekiz A4 sayfa. Birinci sayfada kimlik bilgisi (yazar adı, çalıştığı kuruluş, telefon, faks ve elektronik posta adresleri) bulunmalıdır. Metnin düzenlemeye ve İnternet üzerinde konmaya uygun elektronik kopyası, pdf, html, doc, odt, TeX dosyaları tercih edilir.
+
+Elektronik bildiri: Herhangi bir İnternet yazılım aracı ile okunabilecek, gösterilebilecek ya da dinlenebilecek çokluortam bildiri. Sınırsız form ve boyut. Başında kimlik bilgisi.
+
+Eğitim semineri önerisi: Başlık, süre, azami katılımcı sayısı, anlatılacak konuların azami bir A4 sayfasına sığacak tanımı, eğitimin verilme şekli, donanım ve yazılım gereksinimleri, önerenin kimlik bilgisi.
+
+Tartışma grubu/açık oturum önerisi: Başlık, süre, beklenen katılımcı sayısı, tartışılacak konuların tanımı, önerenin kimlik bilgisi.
+
+Tüm bildiriler ve sahiplerinin izni varsa eğitim seminerleri notları elektronik ortamda sunulacaktır.
