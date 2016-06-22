@@ -118,9 +118,9 @@ twitterHashTag: "inettr2016"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organize Edenler"
+partnersTitle: "Sponsorlar"
+partnersC4sponsorsButton: "Sponsor Ol"
 
 # Tickets Block
 ticketsTitle: "Kayıt"
