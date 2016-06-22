@@ -142,10 +142,6 @@ footerBlocks:
   title: "Linkler"
   links:
    - {link: "http://inet-tr.org.tr/", text: "inet-tr"}
- -
-  title: "İletişim"
-  links:
-   - {link: "mailto:inettr2016@tedu.edu.tr", text: "inettr2016@tedu.edu.tr"}
 
 # Blog
 blogTitle: "Son Haberler"
