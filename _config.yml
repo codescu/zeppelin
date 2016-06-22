@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "XIX. Türkiye'de İnternet Konferansı"
+title: "XXI. Türkiye'de İnternet Konferansı"
 email: "inettr2016@tedu.edu.tr"
 description: "3-5 Kasım 2016,TED Üniversitesi"
 baseurl: "/zeppelin"
