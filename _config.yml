@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://openconf.inet-tr.org.tr/openconf.php"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -49,12 +49,12 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Ulaşım"}
  - {permalink: "/contact/", text: "İletİşİm"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Konuşmacı Olun"}
+ - {link: "http://openconf.inet-tr.org.tr/openconf.php", text: "Konuşmacı Olun"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Konuşmacı Olun"}
+ - {link: "http://openconf.inet-tr.org.tr/openconf.php", text: "Konuşmacı Olun"}
 
 # Hero Block
-heroImage: "anit.jpg"
+heroImage: "anit2.jpg"
 heroTitle: "XXI. Türkiye'de İnternet Konferansı <typeout> 2016"
 eventDate: "3-5 Kasım, 2016"
 typeoutTextValues: '"", "TEDÜ", "Ankara"'
