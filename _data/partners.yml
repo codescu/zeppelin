@@ -1,5 +1,5 @@
 - 
-  group: "Sponsorlar"
+  group: ""
   elements: 
     - {name: "", description: "", link: "http://isoc.org.tr/", imageUrl: "isoc-tr.jpg"}
     - {name: "", description: "", link: "http://www.lkd.org.tr/", imageUrl: "lkd.gif"}
