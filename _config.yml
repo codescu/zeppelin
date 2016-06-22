@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "XIX. Türkiye'de İnternet Konferansı"
-email: "devfest@gdg.org.ua"
+email: "inettr2016@tedu.edu.tr"
 description: "3-5 Kasım 2016,TED Üniversitesi"
 baseurl: "/zeppelin"
 url: "http://codescu.github.io"
@@ -29,7 +29,7 @@ organizerLogo: "http://inet-tr.org.tr/inetconf20/inet-tr15.jpg"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, internet, ankara, türkiye, etkinlik, siber"
 twitterAccount: "@inettrinet"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
