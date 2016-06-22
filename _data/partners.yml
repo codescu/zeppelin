@@ -1,7 +1,7 @@
 - 
   group: "Sponsorlar"
   elements: 
-    - {name: "", description: "", link: "http://inet-tr.org.tr/inetconf21/isoc-tr.jpg", imageUrl: "isoc-tr.png"}
+    - {name: "", description: "", link: "http://isoc.org.tr/", imageUrl: "isoc-tr.jpg"}
     - {name: "", description: "", link: "http://www.lkd.org.tr/", imageUrl: "lkd.gif"}
     - {name: "", description: "", link: "https://www.alternatifbilisim.org/wiki/Ana_Sayfa", imageUrl: "altbil-4.jpg"}
     - {name: "", description: "", link: "http://tetam.boun.edu.tr/", imageUrl: "TETAM-Logo.jpg"}
