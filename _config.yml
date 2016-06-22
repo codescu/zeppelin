@@ -118,18 +118,18 @@ twitterHashTag: "inettr2016"
 
 # Tickets Block
 ticketsTitle: "Kayıt"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: ""
 ticketsOffers:
  -
   name: "Bilet"
-  price: "Free"
+  price: "Ücretsiz"
   priceCurrency: ""
   ticketsNumber: "150"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Kayıt Ol"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2016-10-03T10:00"
+  validThrough: "2016-10-05T23:59"
 
 # Footer
 socialLinks:
@@ -156,7 +156,7 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "Hakkımızda"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
