@@ -99,9 +99,9 @@ eventAddressCountry: "Türkiye"
 eventStartTime: "2016-10-03T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-05T20:00"
-eventPlaceCoordinates: "39.919785,32.857854"
-mapCenterCoordinates: "39.919785,32.857854"
-mapMobileCenterCoordinates: "39.919785,32.857854"
+eventPlaceCoordinates: "39.923257,32.861673"
+mapCenterCoordinates: "39.923257,32.861673"
+mapMobileCenterCoordinates: "39.923257,32.861673"
 
 # Venue Block
 venueBlockTitle: "Venue"
