@@ -59,6 +59,7 @@ Bu yıl “ "Mobil Yaşam", "Sosyal Ağlar", "Yeni Medya", "Siber Güvenlik", "B
 * Siber Kültür
 * Nefret Söylemi
 * Oyun
+
 Konferans dili Türkce'dir. Bununla birlikte, ayrı bir oturumda sunulmak üzere Ingilizce bildiri başvuruları da kabul edilecektir. Başvuruları, tam metin bildirileri, seminer ve çalışma grubu önerilerini aşağıda tanımlanan şekilde 31 Ekim 2015'e kadar iletiniz. Lütfen http://inet-tr.org.tr/inetconf20/yazar.html sayfasını okuyunuz.
 
 Tüm başvuruların elektronik yapılması gerekir. Tam metni basvuru sırasında webten sunuyorsunuz. Başvuruyu daha sonra düzeltmek mümkündür. Ama, en azından genişletilmiş özetle başlayın.
