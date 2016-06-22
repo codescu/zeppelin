@@ -1,5 +1,5 @@
 - 
-  group: "Organize Edenler"
+  group: ""
   elements: 
     - {name: "INETD", description: "", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "inetd0.jpg"}
     - {name: "TED Üniversitesi", description: "", link: "http://lviv.gdg.org.ua", imageUrl: "ted.png"}
