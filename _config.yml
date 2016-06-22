@@ -81,6 +81,9 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "Son Güncellemeler"
 
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 0
 
 # Location Block
 locationBlockTitle: "Lokasyon"
