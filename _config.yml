@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "XXI. Türkiye'de İnternet Konferansı"
-email: "inettr2016@tedu.edu.tr"
+email: ""
 description: "3-5 Kasım 2016,TED Üniversitesi"
 baseurl: "/zeppelin"
 url: "http://codescu.github.io"
@@ -58,7 +58,7 @@ heroImage: "anit2.jpg"
 heroTitle: "XXI. Türkiye'de İnternet Konferansı <typeout> 2016"
 eventDate: "3-5 Kasım, 2016"
 typeoutTextValues: '"", "TEDÜ", "Ankara"'
-typeoutFallback: "TEDÜ"
+typeoutFallback: "TED Üniversitesi, Ankara"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Konuşmacı Ol"}
  - {permalink: "/#tickets", text: "Kayıt Ol"}
