@@ -146,21 +146,16 @@ socialLinks:
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Linkler"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://inet-tr.org.tr/", text: "inet-tr"}
  -
-  title: "Contacts"
+  title: "İletişim"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:inettr2016@tedu.edu.tr", text: "inettr2016@tedu.edu.tr"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Son Haberler"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
