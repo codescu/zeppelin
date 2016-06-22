@@ -54,7 +54,7 @@ rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Konuşmacı Olun"}
 
 # Hero Block
-heroImage: "light-trails-1500x1000.jpg"
+heroImage: "light-trails.jpg"
 heroTitle: "XIX. Türkiye'de İnternet Konferansı <typeout> 2016"
 eventDate: "3-5 Kasım, 2016"
 typeoutTextValues: '"", "TEDÜ", "Ankara"'
