@@ -12,7 +12,7 @@ isStaticPost: false
  * **Ethem Derman (Emekli)**, Ankara Üniversitesi    
  * **Attila Özgit**, Orta Doğu Teknik Üniversitesi
  
- ##### Yerel Düzenleme Kurulu
+##### Yerel Düzenleme Kurulu
  * **Gizem Kayar Akıncı**, TED Üniversitesi
  * **Tolga Çapın**, TED Üniversitesi
  * **Sinan Hanay**, TED Üniversitesi
