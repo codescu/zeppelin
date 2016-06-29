@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kurullar"
-date:   2016-06-29 21:00:00
+date:   2016-06-29 00:00:00
 isStaticPost: false
 ---
 
