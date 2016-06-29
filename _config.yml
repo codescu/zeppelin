@@ -46,6 +46,7 @@ navigationLinks:
  - {permalink: "/blog/call-for-papers", text: "Çağrı"}
 # - {permalink: "/schedule/", text: "Program"}
  #- {permalink: "/speakers/", text: "Konuşmacılar"}
+ - {permalink: "/blog/kurullar", text: "Kurullar"}
  - {permalink: "/sponsors/", text: "Sponsorlar"}
 # - {permalink: "/logistics/", text: "Ulaşım"}
  - {permalink: "/contact/", text: "İletİşİm"}
