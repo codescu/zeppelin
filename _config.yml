@@ -48,7 +48,7 @@ navigationLinks:
  #- {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/blog/kurullar", text: "Kurullar"}
  - {permalink: "/#partners", text: "Sponsorlar"}
-# - {permalink: "/logistics/", text: "Ulaşım"}
+ - {permalink: "/logistics/", text: "Ulaşım"}
  - {permalink: "/contact/", text: "İletİşİm"}
 bottomNavigationLinks:
  - {link: "http://openconf.inet-tr.org.tr/openconf.php", text: "Konuşmacı Olun"}
@@ -170,8 +170,8 @@ findWayWalking: "Yürüme"
 findWayBicycling: "Bisiklet"
 findWayTransit: "Toplu Taşıma"
 findWayFindFlight: "Uçak Bul"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "39.9275545, 32.8648532"
+logisticsMapMobileCenterCoordinates: "39.9275545, 32.8648532"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
