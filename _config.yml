@@ -178,8 +178,8 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Ankara"
 directionDetailsCards:
- - {title: "Havaalanı", information: 'Havaalanından kalkan BelkoAir otobusleri ile Kızılay'a geldikten sonra, taksi veya metro kullanarak veya yürüyerek etkinlik alanına ulaşabilirsiniz.'}
- - {title: "Toplu Taşıma", information: 'TED Üniversitesi, şehir merkezi olan Kızılay'a 1 durak uzaktadır.'}
+ - {title: "Havaalanı", information: "Havaalanından kalkan BelkoAir otobusleri ile Kızılay'a geldikten sonra, taksi veya metro kullanarak veya yürüyerek etkinlik alanına ulaşabilirsiniz."}
+ - {title: "Toplu Taşıma", information: "Ankaray Metrosu Kolej Metrosu'ndan çıkarak etkinlik alanına ulaşabilirsiniz."}
 directionDetailsWideCards:
  -
   title: "Oteller"
@@ -196,3 +196,4 @@ directionDetailsWideCards:
      - {link: "http://www.besthotel.com.tr/", text: "Hotel Best"}
      - {link: "http://hiankara.com/", text: "Holiday Inn Kavaklidere - Ankara"}
    -
+-
