@@ -14,10 +14,10 @@ isStaticPost: false
  * **Necdet Yücel**, Çanakkale Onsekiz Mart Üniversitesi
  
 ##### Yerel Düzenleme Kurulu
- * ** Güney Özcebe**, TED Ü. 
- * ** Mustafa Akgül**, Bilkent Ü. ve INETD 
- * ** Attila Özgit**, ODTÜ 
- * ** Bilgin Avenoğlu**, TED Ü. 
+ * **Güney Özcebe**, TED Ü. 
+ * **Mustafa Akgül**, Bilkent Ü. ve INETD 
+ * **Attila Özgit**, ODTÜ 
+ * **Bilgin Avenoğlu**, TED Ü. 
  * ** Çağrı Latifoğlu**, TED Ü. 
  * ** Erdem Yazgan**, TED Ü. 
  * ** Ethem Derman**, Ankara Ü. (Emekli) 
