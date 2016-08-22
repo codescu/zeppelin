@@ -14,7 +14,6 @@ isStaticPost: false
  * **Necdet Yücel**, Çanakkale Onsekiz Mart Üniversitesi
  
 ##### Yerel Düzenleme Kurulu
-
  * ** Güney Özcebe**, TED Ü. 
  * ** Mustafa Akgül**, Bilkent Ü. ve INETD 
  * ** Attila Özgit**, ODTÜ 
@@ -33,7 +32,6 @@ isStaticPost: false
  * ** Zeynel Cebeci**, Çukurova Ü. 
 
 ##### Düzenleme Kurulu
-
  * ** Güney Özcebe**, TED Ü. 
  * ** Mustafa Akgül**, Bilkent Ü. ve INETD 
  * ** Adil Alpkoçak**, Tıp Bilişimi Derneği 
@@ -77,7 +75,6 @@ isStaticPost: false
  * ** Yavuz Baver Barut**, Mimarlar Odası
 
 ##### Program Kurulu
-
  * ** Güney Özcebe**, TED Ü. 
  * ** Mustafa Akgül**, Bilkent Ü. ve INETD 
  * ** Abdulkadir Yaldır**, Pamukkale Ü. 
