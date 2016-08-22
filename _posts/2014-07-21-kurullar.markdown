@@ -18,184 +18,184 @@ isStaticPost: false
  * **Mustafa Akgül**, Bilkent Ü. ve INETD 
  * **Attila Özgit**, ODTÜ 
  * **Bilgin Avenoğlu**, TED Ü. 
- * ** Çağrı Latifoğlu**, TED Ü. 
- * ** Erdem Yazgan**, TED Ü. 
- * ** Ethem Derman**, Ankara Ü. (Emekli) 
- * ** Gizem Kayar Akıncı**, TED Ü. 
- * ** Mehmet Ufuk Çağlayan**, Boğaziçi Ü. 
- * ** Mustafa Akgül**, Bilkent Ü. 
- * ** Necdet Yücel**, Çanakkale Onsekiz Mart Ü. 
- * ** Sinan Hanay**, TED Ü. 
- * ** Tayfun Küçükyılmaz**, TED Ü. 
- * ** Tolga Kurtuluş Çapın**, TED Ü. 
- * ** Utku İnan Türkmen**, TED Ü. 
- * ** Zeynel Cebeci**, Çukurova Ü. 
+ * **Çağrı Latifoğlu**, TED Ü. 
+ * **Erdem Yazgan**, TED Ü. 
+ * **Ethem Derman**, Ankara Ü. (Emekli) 
+ * **Gizem Kayar Akıncı**, TED Ü. 
+ * **Mehmet Ufuk Çağlayan**, Boğaziçi Ü. 
+ * **Mustafa Akgül**, Bilkent Ü. 
+ * **Necdet Yücel**, Çanakkale Onsekiz Mart Ü. 
+ * **Sinan Hanay**, TED Ü. 
+ * **Tayfun Küçükyılmaz**, TED Ü. 
+ * **Tolga Kurtuluş Çapın**, TED Ü. 
+ * **Utku İnan Türkmen**, TED Ü. 
+ * **Zeynel Cebeci**, Çukurova Ü. 
 
 ##### Düzenleme Kurulu
- * ** Güney Özcebe**, TED Ü. 
- * ** Mustafa Akgül**, Bilkent Ü. ve INETD 
- * ** Adil Alpkoçak**, Tıp Bilişimi Derneği 
- * ** Ahmet Koltuksuz**, Yaşar Ü. 
- * ** Ali Ekrem Özkul**, Anadolu Ü. 
- * ** Ali Fuat Kartal**, Türk Kütüphanecileri Derneği 
- * ** Ali R. Keleş**, Alternatif Bilişim Derneği 
- * ** Ali Yazıcı**, Atılım Ü. 
- * ** Alp Kut**, Dokuz Eylül Ü. 
- * ** Ata Önal**, Ege Ü. (Emekli) 
- * ** Atıf Ünaldı**, IPTV-DER 
- * ** Atilla Elçi**, Aksaray Ü. 
- * ** Attila Özgit**, ODTÜ 
- * ** Behçet Envarlı**, Türkiye Bilişim Vakfı 
- * ** Cengiz Hakan Aydın**, Anadolu Ü. 
- * ** Ceren Ünal**, ISOC-TR 
- * ** Doğan Ufuk Güneş**, YASAD 
- * ** Doruk Fişek**, LKD 
- * ** Ebru Baranseli**, Anadolu Ü. 
- * ** Elif Kuzeci**, ISOC-TR 
- * ** Emre Akadal**, İstanbul Ü. 
- * ** Engür Pişirici**, Bilkent Ü. 
- * ** Ercan Buluş**, Namık Kemal Ü. 
- * ** Erman Karaca**, TÜBİSAD 
- * ** Ethem Derman**, Ankara Ü. (Emekli) 
- * ** Gökhan Akın**, Ağ Yöneticileri Derneği 
- * ** Haluk Bingöl**, Boğaziçi Ü. 
- * ** İlker Tabak**, Türkiye Bilişim Derneği 
- * ** Işık Aybay**, Doğu Akdeniz Ü. 
- * ** Kadir Erdogan**, ISOC-TR, NIC-TR 
- * ** Mehmet Ufuk Çağlayan**, Boğaziçi Ü. 
- * ** Meltem Yıldırım Ekici**, Bilgisayar Mühendisleri Odası 
- * ** Necdet Yücel**, Çanakkale Onsekiz Mart Ü. 
- * ** Nihad Karslı**, Ankara Barosu 
- * ** Onur Bektaş **, İMO. 
- * ** Özlem Özgöbek**, Balıkesir  Ü. 
- * ** Sinan  Hanay**, TED
- * ** Tayfun İşbilen**, EMO 
- * ** Tayfun Küçükyılmaz**, TED
- * ** Tolga Kuruluş Çapın**,  TED  
- * ** Yavuz Baver Barut**, Mimarlar Odası
+ * **Güney Özcebe**, TED Ü. 
+ * **Mustafa Akgül**, Bilkent Ü. ve INETD 
+ * **Adil Alpkoçak**, Tıp Bilişimi Derneği 
+ * **Ahmet Koltuksuz**, Yaşar Ü. 
+ * **Ali Ekrem Özkul**, Anadolu Ü. 
+ * **Ali Fuat Kartal**, Türk Kütüphanecileri Derneği 
+ * **Ali R. Keleş**, Alternatif Bilişim Derneği 
+ * **Ali Yazıcı**, Atılım Ü. 
+ * **Alp Kut**, Dokuz Eylül Ü. 
+ * **Ata Önal**, Ege Ü. (Emekli) 
+ * **Atıf Ünaldı**, IPTV-DER 
+ * **Atilla Elçi**, Aksaray Ü. 
+ * **Attila Özgit**, ODTÜ 
+ * **Behçet Envarlı**, Türkiye Bilişim Vakfı 
+ * **Cengiz Hakan Aydın**, Anadolu Ü. 
+ * **Ceren Ünal**, ISOC-TR 
+ * **Doğan Ufuk Güneş**, YASAD 
+ * **Doruk Fişek**, LKD 
+ * **Ebru Baranseli**, Anadolu Ü. 
+ * **Elif Kuzeci**, ISOC-TR 
+ * **Emre Akadal**, İstanbul Ü. 
+ * **Engür Pişirici**, Bilkent Ü. 
+ * **Ercan Buluş**, Namık Kemal Ü. 
+ * **Erman Karaca**, TÜBİSAD 
+ * **Ethem Derman**, Ankara Ü. (Emekli) 
+ * **Gökhan Akın**, Ağ Yöneticileri Derneği 
+ * **Haluk Bingöl**, Boğaziçi Ü. 
+ * **İlker Tabak**, Türkiye Bilişim Derneği 
+ * **Işık Aybay**, Doğu Akdeniz Ü. 
+ * **Kadir Erdogan**, ISOC-TR, NIC-TR 
+ * **Mehmet Ufuk Çağlayan**, Boğaziçi Ü. 
+ * **Meltem Yıldırım Ekici**, Bilgisayar Mühendisleri Odası 
+ * **Necdet Yücel**, Çanakkale Onsekiz Mart Ü. 
+ * **Nihad Karslı**, Ankara Barosu 
+ * **Onur Bektaş **, İMO. 
+ * **Özlem Özgöbek**, Balıkesir  Ü. 
+ * **Sinan  Hanay**, TED
+ * **Tayfun İşbilen**, EMO 
+ * **Tayfun Küçükyılmaz**, TED
+ * **Tolga Kuruluş Çapın**,  TED  
+ * **Yavuz Baver Barut**, Mimarlar Odası
 
 ##### Program Kurulu
- * ** Güney Özcebe**, TED Ü. 
- * ** Mustafa Akgül**, Bilkent Ü. ve INETD 
- * ** Abdulkadir Yaldır**, Pamukkale Ü. 
+ * **Güney Özcebe**, TED Ü. 
+ * **Mustafa Akgül**, Bilkent Ü. ve INETD 
+ * **Abdulkadir Yaldır**, Pamukkale Ü. 
 
- * ** Adil Akbaş**, LKD 
- * ** Ahmet Koltuksuz**, Yaşar Ü. 
- * ** Ali Ekrem Özkul**, Anadolu Ü. 
+ * **Adil Akbaş**, LKD 
+ * **Ahmet Koltuksuz**, Yaşar Ü. 
+ * **Ali Ekrem Özkul**, Anadolu Ü. 
 
- * ** Ali Erdinç Köroğlu**, LKD 
- * ** Ali Rıza Keleş**, Alternatif Bilişim Derneği 
- * ** Ali Yazıcı**, Atılım Ü. 
+ * **Ali Erdinç Köroğlu**, LKD 
+ * **Ali Rıza Keleş**, Alternatif Bilişim Derneği 
+ * **Ali Yazıcı**, Atılım Ü. 
 
- * ** Aslı Telli Aydemir**, Şehir Ü. 
- * ** Ata Önal**, Ege Ü. 
- * ** Atay Özgövde**, Galatasaray Ü. 
+ * **Aslı Telli Aydemir**, Şehir Ü. 
+ * **Ata Önal**, Ege Ü. 
+ * **Atay Özgövde**, Galatasaray Ü. 
 
- * ** Albert Levi**, Sabancı Ü. 
- * ** Atilla Elçi**, Aksaray Ü. 
- * ** Attila Özgit**, ODTÜ 
+ * **Albert Levi**, Sabancı Ü. 
+ * **Atilla Elçi**, Aksaray Ü. 
+ * **Attila Özgit**, ODTÜ 
 
- * ** Aylin Kantarcı**, Ege Ü. 
- * ** Ayşa Kaymak**, İzmir Barosu 
- * ** Ayşegül Alaybeyoğlu**, İzmir Kâtip Çelebi Ü. 
+ * **Aylin Kantarcı**, Ege Ü. 
+ * **Ayşa Kaymak**, İzmir Barosu 
+ * **Ayşegül Alaybeyoğlu**, İzmir Kâtip Çelebi Ü. 
 
- * ** Can Özturan**, Boğaziçi Ü. 
- * ** Cengiz Hakan Aydın**, Anadolu Ü. 
- * ** Ceren Ünal**, Bilkent Ü. 
+ * **Can Özturan**, Boğaziçi Ü. 
+ * **Cengiz Hakan Aydın**, Anadolu Ü. 
+ * **Ceren Ünal**, Bilkent Ü. 
 
- * ** Ceyda Akalın**, İstanbul Barosu 
- * ** Chris Stephenson**, Bilgi Ü. 
- * ** Doruk Fişek**, LKD 
+ * **Ceyda Akalın**, İstanbul Barosu 
+ * **Chris Stephenson**, Bilgi Ü. 
+ * **Doruk Fişek**, LKD 
 
- * ** Ebru Baranseli**, Anadolu Ü. 
- * ** Elif Kuzeci**, ISOC-TR 
- * ** Engür Rıza Pişirici**, Bilkent U 
+ * **Ebru Baranseli**, Anadolu Ü. 
+ * **Elif Kuzeci**, ISOC-TR 
+ * **Engür Rıza Pişirici**, Bilkent U 
 
- * ** Enis Karaarslan**, Muğla Ü. 
- * ** Ergun Soysal**, Tıp Bilişimi Derneği 
- * ** Erdal Balaban**, İstanbul Ü. (Emekli) 
+ * **Enis Karaarslan**, Muğla Ü. 
+ * **Ergun Soysal**, Tıp Bilişimi Derneği 
+ * **Erdal Balaban**, İstanbul Ü. (Emekli) 
 
- * ** Erkan Saka**, Bilgi Ü. 
- * ** Ethem Derman**, Ankara Ü. (Emekli) 
- * ** Fatih Alagöz**, Boğaziçi Ü. 
+ * **Erkan Saka**, Bilgi Ü. 
+ * **Ethem Derman**, Ankara Ü. (Emekli) 
+ * **Fatih Alagöz**, Boğaziçi Ü. 
 
- * ** Fatih Özavcı**, Gamasec 
- * ** Fikret İlkiz**, İstanbul Barosu 
- * ** Fulya Sarı**, Boğaziçi Ü. 
+ * **Fatih Özavcı**, Gamasec 
+ * **Fikret İlkiz**, İstanbul Barosu 
+ * **Fulya Sarı**, Boğaziçi Ü. 
 
- * ** Funda Başaran**, Ankara Ü.  
- * ** Gökhan Ahi**, Tüm İnternet Derneği 
- * ** Gökhan Akın**, Ağ Yöneticileri Derneği 
+ * **Funda Başaran**, Ankara Ü.  
+ * **Gökhan Ahi**, Tüm İnternet Derneği 
+ * **Gökhan Akın**, Ağ Yöneticileri Derneği 
 
- * ** Güler Sağit**, İzmir Büyükşehir Belediyesi 
- * ** Gülser Dondurmacı**, INETD  
- * ** Gürkan Gür**, Boğaziçi Ü. 
+ * **Güler Sağit**, İzmir Büyükşehir Belediyesi 
+ * **Gülser Dondurmacı**, INETD  
+ * **Gürkan Gür**, Boğaziçi Ü. 
 
 
- * ** Hakan Tüzün**, Hacettepe Ü. 
- * ** Hidayet Doğan**, Yazılım Parkı 
- * ** Haluk Bingol**, Boğaziçi Ü. 
+ * **Hakan Tüzün**, Hacettepe Ü. 
+ * **Hidayet Doğan**, Yazılım Parkı 
+ * **Haluk Bingol**, Boğaziçi Ü. 
 
- * ** Işık Aybay**, Doğu Akdeniz Ü. 
- * ** İsmail Hakkı Polat**, Kadir Has Ü. 
- * ** Kadir Erdogan**, ISOC-TR, NIC-TR 
+ * **Işık Aybay**, Doğu Akdeniz Ü. 
+ * **İsmail Hakkı Polat**, Kadir Has Ü. 
+ * **Kadir Erdogan**, ISOC-TR, NIC-TR 
 
- * ** Kürşat Çağıltay**, ODTÜ 
- * ** M. Özhan Kalaç**, Celal Bayar Ü. 
- * ** Mehmet Göktürk**, Gebze Teknik Ü. 
+ * **Kürşat Çağıltay**, ODTÜ 
+ * **M. Özhan Kalaç**, Celal Bayar Ü. 
+ * **Mehmet Göktürk**, Gebze Teknik Ü. 
 
- * ** Mehmet Ufuk Çağlayan**, Boğaziçi Ü. 
- * ** Melih Kırlıdoğ**, Alternatif Bilişim Derneği 
- * ** Mustafa İnceoğlu**, Ege Ü. 
+ * **Mehmet Ufuk Çağlayan**, Boğaziçi Ü. 
+ * **Melih Kırlıdoğ**, Alternatif Bilişim Derneği 
+ * **Mustafa İnceoğlu**, Ege Ü. 
 
- * ** Mustafa Karakaplan**, İnönü Ü. 
- * ** Mutlu Binark**, Hacettepe Ü. 
- * ** Necdet Yücel**, Çanakkale Onsekiz Mart Ü. 
+ * **Mustafa Karakaplan**, İnönü Ü. 
+ * **Mutlu Binark**, Hacettepe Ü. 
+ * **Necdet Yücel**, Çanakkale Onsekiz Mart Ü. 
 
- * ** Nihad Karslı**, Ankara Barosu 
- * ** Nihal Dizdar**, TURKMIA 
- * ** Oktay Dursun**, BMO  
+ * **Nihad Karslı**, Ankara Barosu 
+ * **Nihal Dizdar**, TURKMIA 
+ * **Oktay Dursun**, BMO  
 
- * ** Onur Bektaş**, İMO  
- * ** Orçun Madran**, Hacettepe Ü. 
- * ** Orhan Gökçöl**, Bahçeşehir Ü. 
+ * **Onur Bektaş**, İMO  
+ * **Orçun Madran**, Hacettepe Ü. 
+ * **Orhan Gökçöl**, Bahçeşehir Ü. 
 
- * ** Osman Saka**, Turkmia 
- * ** Özlem Özgöbek**, Balıkesir  Ü. 
- * ** Pınar Mıhçı**, Aksaray Ü. 
+ * **Osman Saka**, Turkmia 
+ * **Özlem Özgöbek**, Balıkesir  Ü. 
+ * **Pınar Mıhçı**, Aksaray Ü. 
 
- * ** Pınar Yıldırım**, Okan Ü. 
- * ** Refik Arkut**, Galatasaray Ü. 
- * ** Rıfat Çölkesen**, Papatya Yayınevi 
+ * **Pınar Yıldırım**, Okan Ü. 
+ * **Refik Arkut**, Galatasaray Ü. 
+ * **Rıfat Çölkesen**, Papatya Yayınevi 
 
- * ** Sadi Seferoğlu**, Hacettepe Ü. 
- * ** Serdar Korukoğlu**, Ege Ü. 
- * ** Serhat Koç**, İstanbul Barosu 
+ * **Sadi Seferoğlu**, Hacettepe Ü. 
+ * **Serdar Korukoğlu**, Ege Ü. 
+ * **Serhat Koç**, İstanbul Barosu 
 
- * ** Sevinç Gülseçen**, İstanbul Ü. 
- * ** Sinan Hanay**, TED Ü. 
- * ** Sinan İlkiz**, ISOC-TR 
+ * **Sevinç Gülseçen**, İstanbul Ü. 
+ * **Sinan Hanay**, TED Ü. 
+ * **Sinan İlkiz**, ISOC-TR 
 
- * ** Suzan Üsküdarlı**, Boğaziçi Ü. 
- * ** Tayfun İşbilen**, EMO 
- * ** Tayfun KüçükYılmaz**, TED Ü. 
+ * **Suzan Üsküdarlı**, Boğaziçi Ü. 
+ * **Tayfun İşbilen**, EMO 
+ * **Tayfun KüçükYılmaz**, TED Ü. 
 
- * ** Tanol Türkoğlu**, HBT 
- * ** Tolga Kurtuluş Çapın**, TED Ü. 
- * ** Tevfik Akgün**, Okan Ü. 
+ * **Tanol Türkoğlu**, HBT 
+ * **Tolga Kurtuluş Çapın**, TED Ü. 
+ * **Tevfik Akgün**, Okan Ü. 
 "
- * ** Tuğkan Tuğlular**, İYTE 
- * ** Turgut Kalfaoğlu**, İYTE 
- * ** Tuğrul Yılmaz**, Muğla Ü. (Emekli) 
+ * **Tuğkan Tuğlular**, İYTE 
+ * **Turgut Kalfaoğlu**, İYTE 
+ * **Tuğrul Yılmaz**, Muğla Ü. (Emekli) 
 
- * ** Umit Atabek**, Yaşar Ü. 
- * ** Umit Atalay**, Innova 
- * ** Volkan Ozturk**, Brightwell 
+ * **Umit Atabek**, Yaşar Ü. 
+ * **Umit Atalay**, Innova 
+ * **Volkan Ozturk**, Brightwell 
 
- * ** Yalçın Özkan**, INETD  
- * ** Yaşar Tonta**, Hacettepe Ü. 
- * ** Yavuz Baver Barut**, Mimarlar Odası 
+ * **Yalçın Özkan**, INETD  
+ * **Yaşar Tonta**, Hacettepe Ü. 
+ * **Yavuz Baver Barut**, Mimarlar Odası 
 
- * ** Yavuz Günalay**, Bahçeşehir Ü. 
- * ** Zerrin Ayvaz Reis**, İstanbul Ü. 
- * ** Zeynel Cebeci**, Çukurova Ü. 
+ * **Yavuz Günalay**, Bahçeşehir Ü. 
+ * **Zerrin Ayvaz Reis**, İstanbul Ü. 
+ * **Zeynel Cebeci**, Çukurova Ü. 
