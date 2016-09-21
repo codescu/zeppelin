@@ -63,7 +63,7 @@ typeoutTextValues: '"", "TEDÜ", "Ankara"'
 typeoutFallback: "TED Üniversitesi Ankara"
 heroButtons:
  - {link: "http://openconf.inet-tr.org.tr/openconf.php", text: "Konuşmacı Ol"}
- - {permalink: "/#tickets", text: "Kayıt Ol"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeg2F1SG2uvmV4vdfV-bi_prqKgYGnTzA2s4scUFurmVW4Jlg/viewform", text: "Kayıt Ol"}
 
 # About Block
 aboutTitle: "Etkinlik"
