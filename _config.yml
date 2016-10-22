@@ -51,9 +51,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Ulaşım"}
  - {permalink: "/contact/", text: "İletİşİm"}
 bottomNavigationLinks:
- - {link: "http://openconf.inet-tr.org.tr/openconf.php", text: "Konuşmacı Olun"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeg2F1SG2uvmV4vdfV-bi_prqKgYGnTzA2s4scUFurmVW4Jlg/viewform", text: "Kayıt Ol"}
 rightNavigationButtons:
- - {link: "http://openconf.inet-tr.org.tr/openconf.php", text: "Konuşmacı Olun"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeg2F1SG2uvmV4vdfV-bi_prqKgYGnTzA2s4scUFurmVW4Jlg/viewform", text: "Kayıt Ol"}
 
 # Hero Block
 heroImage: "anit2.jpg"
@@ -62,7 +62,6 @@ eventDate: "3-5 Kasım 2016"
 typeoutTextValues: '"", "TEDÜ", "Ankara"'
 typeoutFallback: "TED Üniversitesi Ankara"
 heroButtons:
- - {link: "http://openconf.inet-tr.org.tr/openconf.php", text: "Konuşmacı Ol"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeg2F1SG2uvmV4vdfV-bi_prqKgYGnTzA2s4scUFurmVW4Jlg/viewform", text: "Kayıt Ol"}
 
 # About Block
