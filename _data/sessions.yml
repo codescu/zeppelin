@@ -3,7 +3,7 @@
   title: "Kahve Arası"
   place: " "
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
   id: 503
   title: "Yemek Arası"
@@ -12,6 +12,7 @@
 -
   id: 001
   title: "Açılış"
+  speakers: [3, 5]
   description: "Mustafa Akgül, INETD </br>Ceren Ünal, ISOC-TR </br>Prof. Dr. Murat Tarımcılar, TED Ü.</br>Halil Baha Karabudak, Bilkent Ü., Keynote "
   subtype: presentation
   language: tr
