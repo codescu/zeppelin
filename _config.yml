@@ -87,7 +87,7 @@ rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 0
 
 # Location Block
-locationBlockTitle: "Lokasyon"
+locationBlockTitle: "Konum"
 eventLocationName: "Konferans Alanı"
 eventLocationLink: "http://www.tedu.edu.tr/tr/main/iletisim"
 eventStreetAddress: "TED Üniversitesi, Ziya Gökalp Caddesi No.48"
@@ -145,7 +145,7 @@ socialLinks:
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Linkler"
+  title: "Bağlantılar"
   links:
    - {link: "http://inet-tr.org.tr/", text: "inet-tr"}
 
