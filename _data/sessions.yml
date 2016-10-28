@@ -12,7 +12,7 @@
 -
   id: 001
   title: "Açılış"
-  speakers: [3, 5]
+  speakers: [3, 4, 5, 6]
   description: "Mustafa Akgül, INETD </br>Ceren Ünal, ISOC-TR </br>Prof. Dr. Murat Tarımcılar, TED Ü.</br>Halil Baha Karabudak, Bilkent Ü., Keynote "
   subtype: presentation
   language: tr
