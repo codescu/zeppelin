@@ -48,3 +48,7 @@
   subtype: presentation
   speakers: [9]
   service: true
+-
+  id: 008
+  title: "54 S: Internet Ortamında Gözetim ve Denetim"
+  service: true
