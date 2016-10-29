@@ -17,26 +17,26 @@
     	sessionIds: [[307]]
     }
     - {
-        startTime: "11:45",
-        endTime: "13:00",
-        sessionIds: [[003], [404], [004]]
+      startTime: "11:45",
+      endTime: "13:00",
+      sessionIds: [[003], [404], [004]]
     }
     - {
     	startTime: "13:00",
     	endTime: "14:00",
     	sessionIds: [[503]]
     }
-        - {
+    - {
     	startTime: "14:00",
     	endTime: "15:30",
     	sessionIds: [[503]]
     }
-        - {
+    - {
     	startTime: "13:00",
     	endTime: "14:00",
     	sessionIds: [[503]]
     }
-        - {
+    - {
     	startTime: "13:00",
     	endTime: "14:00",
     	sessionIds: [[503]]
