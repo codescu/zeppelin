@@ -28,21 +28,23 @@
   service: true
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "59 S:Özgür İnternet"
+  speakers: [7]
+  subtype: presentation
+  service: true
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "65 P: Kadın Bilişimciler<br/><br/>Kadın Bilişimciler-Cam Tavanı Aşmak"
+  subtype: presentation
+  speakers: [8]
+  service: true
+  -
+  id: 006
+  title: "74: e-Devlet Kapısı ve Sosyo Ekonomik Faydaları, A. Savaş<br/><br/>71: Ahtapot Açık Kaynak Kodlu Bütünleşik Siber Güvenlik Sistemi, M. Aydın, U. Çil "
+  service: true
+  -
+  id: 007
+  title: "54 S: Internet Ortamında Gözetim ve Denetim"
+  subtype: presentation
+  speakers: [9]
+  service: true
