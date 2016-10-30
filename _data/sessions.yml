@@ -29,9 +29,8 @@
 -
   id: 004
   title: "59 S:Özgür İnternet"
-  speakers: [7]
   subtype: presentation
-  service: true
+  language: seminer
 -
   id: 005
   title: "65 P: Kadın Bilişimciler<br/><br/>Kadın Bilişimciler-Cam Tavanı Aşmak"
