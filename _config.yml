@@ -177,6 +177,8 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Ankara"
 directionDetailsCards:
+ - {title: "Ulaşım", information: "TED Üniversitesi, Ankaray metro hattının Kolej durağının tam önündedir. Konferans D binası ve buna bağlı konferans salonunda düzenlenecektir. TED Üniversitesi'nin iki giriş kapısı vardır. D binasına giriş için Kurtuluş Parkı tarafındaki kapıdan, yani Hüdaverdi Pastanesi'nin karşısındaki kapıdan girmek gerekmektedir.TEDÜ çevresindeki Sıhhiye katlı otoparkı şu an hizmet dışı olup, çevresindeki 1-2 küçük otopark çok kısıtlı otopark imkanı sunmaktadır. Katılımcıların, araba ile TED Üniversite'sine gelmesini tavsiye etmiyoruz, ama Kızılay'a park edip yürülebilir, veya Ankaray ile gelinebilir."}
+ - {title: "Yemek", information: "Ankara'nın merkezinde bulunan üniversitemiz civarında yürüme mesafesinde bol sayıda restoran, lokanta ve kafeler bulunmaktadır."}
  - {title: "Havaalanı", information: "Havaalanından kalkan BelkoAir otobusleri ile Kızılay'a geldikten sonra, taksi veya metro kullanarak veya yürüyerek etkinlik alanına ulaşabilirsiniz."}
  - {title: "Toplu Taşıma", information: "Ankaray Metrosu Kolej Metrosu'ndan çıkarak etkinlik alanına ulaşabilirsiniz."}
 directionDetailsWideCards:
