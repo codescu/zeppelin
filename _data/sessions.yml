@@ -44,11 +44,33 @@
   service: true
 -
   id: 007
-  title: "54 S: Internet Ortamında Gözetim ve Denetim"
-  subtype: presentation
-  speakers: [9]
+  title: "54 S: Internet Ortamında Gözetim ve Denetim M. Kırlıdoğ"
   service: true
 -
   id: 008
+  title: "56 P:Altyapı Türkiyenin İnternet Altyapısı Bilgi Toplumıuna Hazır mı? Ne Yapılmalı? M. U. Çağlayan, Y. A. Arıak,  C. Çelebiler, F. S. Nebil, İ. Tabak"
+  service: true
+-
+  id: 009
+  title: "68 P: Türkiye'de Açık ve Uzaktan Öğrenmenin Sorunları Paneli C. H. Aydın, C. Çelik, L. Şahin C. M. Kandemir, A. E. Özkul "
+  service: true
+-
+  id: 010
+  title: "26 S: Toplumsal Hareketler - Yeni Medya Belgeseli - Etkileşimli Veritabanı Belgeseli E. Ocak "
+  service: true
+-
+  id: 011
+  title: "E-öğrenme<br/><br/>7: Özel Yetenekli Öğrencilerin Eğitiminde Sanal Gerçeklik Kullanımı, H. Tutaysalgır<br/><br/>14: Lise Öğrencilerinde İnternet Kullanımı ve İnternet Bağımlılığı, S. Fariz <br/><br/>25: “Dijital Oyun Bağımlılığı” ve Ötesi: Dijital Oyunları Nasıl Anlatmalı?, P. Koç "
+  service: true
+-
+  id: 012
+  title: "29: Nesnelerin Interneti ve Büyük Veri'nin IT Hizmet Yönetimi Süreçlerine Olası Etkileri, E. Altın <br/><br/>30: Mobil Cihazlar İçin Son Kullanma Tarihli Gıda Analizi, Ü. Köse, A. Çınar <br/><br/>38: Ziyaretçi Logları İle Oluşturulan Veri Kümesinden Semantik Web Çıkarımları, A. Tabanlıoğlu İ. Türker, M. Öğretmen M.C. Tok"
+  service: true
+-
+  id: 013
+  title: "54 S: Internet Ortamında Gözetim ve Denetim"
+  service: true
+-
+  id: 014
   title: "54 S: Internet Ortamında Gözetim ve Denetim"
   service: true
