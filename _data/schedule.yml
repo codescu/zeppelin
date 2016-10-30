@@ -59,12 +59,70 @@
     	sessionIds: [307]
     }
     - {
+    	startTime: "11:30",
+    	endTime: "13:00",
+    	sessionIds: [013,014]
+    }
+    - {
         startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+        endTime: "14:00",
+        sessionIds: [503]
     }
     - {
     	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    	endTime: "15:30",
+    	sessionIds: [015,016]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "16:00",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "18:00",
+    	sessionIds: [017,018]
+    }
+- 
+  date: "2016-11-05"
+  dateReadable: "5 Kasım"
+  tracks:
+    - {title: "Salon A", color: "#90be4e"}
+    - {title: "Salon B", color: "#03a9f4"}
+    - {title: "Salon C", color: "#e91e63"}
+  timeslots: 
+    - {
+    	startTime: "09:30",
+    	endTime: "11:00",
+    	sessionIds: [019,020,021]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:30",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "13:00",
+    	sessionIds: [022,023,024]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [503]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "15:30",
+    	sessionIds: [025,026,027]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "16:00",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "18:00",
+    	sessionIds: [028,029,030]
     }
