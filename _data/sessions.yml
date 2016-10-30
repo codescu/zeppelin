@@ -68,9 +68,73 @@
   service: true
 -
   id: 013
-  title: "54 S: Internet Ortamında Gözetim ve Denetim"
+  title: "21: Spor Haberciliği ve Twitter: Ulusal Spor Gazeteleri Üzerine Bir Araştırma, D.D. Kürkçü <br/><br/>32: Ağ Toplumunda Çeviri Odaklı Demokratik Pratikler, E.B. Demirel, Z. Görgüler,D. Kurmel <br/><br/>28: E-Demokrasi: Yeni Nesil Doğrudan Demokrasi ve Türkiye’deki Uygulanabilirliği, U.C. Çabuk,A. Çavdar,E. Demir m"
   service: true
 -
   id: 014
-  title: "54 S: Internet Ortamında Gözetim ve Denetim"
+  title: "48 S: Sosyal Ağlar Tarihi B. Ayan"
+  service: true
+-
+  id: 015
+  title: "63 P: Erişim Engellemeleri ve Sansür Paneli A. G. Akbaş, Ö. Muzaç,F. Çayır Y. Aydın,M. Kırlıdoğ"
+  service: true
+-
+  id: 016
+  title: "58 S: GNU/Linux Masaüstü B. Büyükakyol"
+  service: true
+-
+  id: 017
+  title: "O.B.: M. Binark    2 P: Sosyal Medya Ortamlarindan Veri Toplanmasi ve Etik    M. Binark,H. Yalçın Ş. Karataş, T. Çomu"
+  service: true
+-
+  id: 018
+  title: "41 S: Bir Adli Bilişim Senaryosu  M. Kırlıdoğ"
+  service: true
+-
+  id: 019
+  title: "57 P: Türkiye’de Dijital Hikaye Anlatımında Güncel Tartışmalar B. Şimşek, Ş. İnce, E. Sertalp"
+  service: true
+-
+  id: 020
+  title: "60: Microservices, Cloud, DevOps nedir ?, F. Yarcı <br/><br/>66: IoT Uygulamaları için MQTT Protokolü, G. Yıldırım <br/><br/>67: Özgür yazılım ucuz mu? Ucuz olmalı mı?, N. Yücel"
+  service: true
+-
+  id: 021
+  title: "64 P: Açık Öğretim ISOC - TR Çevrimiçi Çocuk Projesi F. Demirel, C. Ünal"
+  service: true
+-
+  id: 022
+  title: "43 P: Sosyal Medya ve Sağlık Paneli A. Alpkoçak, A. E. Esatoğlu M. Ülgü"
+  service: true
+-
+  id: 023
+  title: "Hukuk <br/><br/>1: Kayıtlı E-Posta Kullanım Sürecinde Ortaya Çıkabilecek Bazı Hukuki Durumlar, U. Köse, U. Köse <br/><br/>35: İnternet Ortamında Kişisel Verilerin Hukuka Aykırı Olarak İfşası, A.H. Doğu <br/><br/>53: Kişisel Verilerin Korunması Kanunu Ve Uygulamaları, F. Çayır"
+  service: true
+-
+  id: 024
+  title: "72, S: Ağ teknolojilerinde yeni yaklaşımlar ve SDN G. Akın"
+  service: true
+-
+  id: 025
+  title: "61 P: Endüstriyel İnternet: Türkiye için Riskler ve Fırsatlar U. Sahbaz, E. Caglar, O. Acar U. Gur, K. Caliskan"
+  service: true
+-
+  id: 026
+  title: "34: Bilgi Sistemleri Literatüründe 19962015 Arasında Kullanılan Anahtar Kelimelerin Analizi, İ.Kabasakal<br/><br/>24: Ekran Çağı İnsanı ve Dijital Toplum, D. Çalık, G. Toker <br/><br/>20: Yeni Medya Okuryazarlığını Anlamak: Sosyo-Kültürel Bir Çerçeve, A.A. Çobaner, B. Gülgün <br/><br/>50: Türkiye’deki Üniversitelerin Mobil Uygulamalarının İncelenmesi, E. Aydemir "
+  service: true
+-
+  id: 027
+  title: "75: Neden Yüksek Başarımlı Hesaplama?<br/><br/>76: Sanal switch (ovs, bare metal switch) B. Demircioğlu"
+  service: true
+-
+  id: 028
+  title: "O.B.: M. Akgül<br/><br/>6 P: Dijital Ekonomi veya Endüstri 4.0 mı?: Tüketicinin Üretici olarak Emek Gücüne Dönüşmesi Olgusu M.  Binark, E. Bulut  S. Toros, R. Ünal"
+  service: true
+-
+  id: 029
+  title: "55: Artırılmış Gerçeklik'in Turizmde Kullanımı, E. Sertalp <br/><br/>18: Sanal Gerçeklik ile E-ticaret Sistemi, A. Durgut <br/><br/>62: Kablosuz Sensör Ağlari ile Akilli Sistem Ev Modeli, M.A. Kutlugün,  M.Y Çakır<br/><br/>27:  Raspberry Pi ile Süper Bilgisayar yapımı, M. Akçay, T. Orak"
+  service: true
+-
+  id: 030
+  title: "73: Networkte yazılım bilgisi C.T. Bozkurt"
   service: true
