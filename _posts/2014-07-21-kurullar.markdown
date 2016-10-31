@@ -58,7 +58,8 @@ isStaticPost: false
  * **Erman Karaca**, TÜBİSAD 
  * **Ethem Derman**, Ankara Ü. (Emekli) 
  * **Gökhan Akın**, Ağ Yöneticileri Derneği 
- * **Haluk Bingöl**, Boğaziçi Ü. 
+ * **Haluk Bingöl**, Boğaziçi Ü.
+ * **Hamid Ahmadlouei**, TED Ü.
  * **İlker Tabak**, Türkiye Bilişim Derneği 
  * **Işık Aybay**, Doğu Akdeniz Ü. 
  * **Kadir Erdogan**, ISOC-TR, NIC-TR 
@@ -66,12 +67,12 @@ isStaticPost: false
  * **Meltem Yıldırım Ekici**, Bilgisayar Mühendisleri Odası 
  * **Necdet Yücel**, Çanakkale Onsekiz Mart Ü. 
  * **Nihad Karslı**, Ankara Barosu 
- * **Onur Bektaş **, İMO. 
+ * **Onur Bektaş**, İMO. 
  * **Özlem Özgöbek**, Balıkesir  Ü. 
- * **Sinan  Hanay**, TED
+ * **Sinan  Hanay**, TED Ü.
  * **Tayfun İşbilen**, EMO 
- * **Tayfun Küçükyılmaz**, TED
- * **Tolga Kuruluş Çapın**,  TED  
+ * **Tayfun Küçükyılmaz**, TED Ü.
+ * **Tolga Kuruluş Çapın**,  TED Ü.
  * **Yavuz Baver Barut**, Mimarlar Odası
 
 ##### Program Kurulu
