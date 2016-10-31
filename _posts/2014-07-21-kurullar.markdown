@@ -22,6 +22,7 @@ isStaticPost: false
  * **Erdem Yazgan**, TED Ü. 
  * **Ethem Derman**, Ankara Ü. (Emekli) 
  * **Gizem Kayar Akıncı**, TED Ü. 
+ * **Hamid Ahmadlouei**, TED Ü.
  * **Mehmet Ufuk Çağlayan**, Boğaziçi Ü. 
  * **Mustafa Akgül**, Bilkent Ü. 
  * **Necdet Yücel**, Çanakkale Onsekiz Mart Ü. 
@@ -59,7 +60,6 @@ isStaticPost: false
  * **Ethem Derman**, Ankara Ü. (Emekli) 
  * **Gökhan Akın**, Ağ Yöneticileri Derneği 
  * **Haluk Bingöl**, Boğaziçi Ü.
- * **Hamid Ahmadlouei**, TED Ü.
  * **İlker Tabak**, Türkiye Bilişim Derneği 
  * **Işık Aybay**, Doğu Akdeniz Ü. 
  * **Kadir Erdogan**, ISOC-TR, NIC-TR 
