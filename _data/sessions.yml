@@ -83,7 +83,7 @@
   language: panel
 -
   id: 016
-  title: "GNU/Linux Masaüstü B. Büyükakyol"
+  title: "GNU/Linux Masaüstü, B. Büyükakyol"
   subtype: presentation
   language: seminer
 -
@@ -93,7 +93,7 @@
   language: panel
 -
   id: 018
-  title: "Bir Adli Bilişim Senaryosu  M. Kırlıdoğ"
+  title: "Bir Adli Bilişim Senaryosu,  M. Kırlıdoğ"
   subtype: presentation
   language: seminer
 -
@@ -103,7 +103,7 @@
   language: panel
 -
   id: 020
-  title: "Microservices, Cloud, DevOps nedir ?, F. Yarcı <br/><br/>IoT Uygulamaları için MQTT Protokolü, G. Yıldırım <br/><br/>Özgür yazılım ucuz mu? Ucuz olmalı mı?, N. Yücel"
+  title: "Microservices, Cloud, DevOps nedir ? F. Yarcı <br/><br/>IoT Uygulamaları için MQTT Protokolü, G. Yıldırım <br/><br/>Özgür yazılım ucuz mu? Ucuz olmalı mı?, N. Yücel"
   subtype: presentation
   language: seminer
 -
@@ -118,11 +118,11 @@
   language: panel
 -
   id: 023
-  title: "Hukuk <br/><br/>1: Kayıtlı E-Posta Kullanım Sürecinde Ortaya Çıkabilecek Bazı Hukuki Durumlar, U. Köse, U. Köse <br/><br/>35: İnternet Ortamında Kişisel Verilerin Hukuka Aykırı Olarak İfşası, A.H. Doğu <br/><br/>53: Kişisel Verilerin Korunması Kanunu Ve Uygulamaları, F. Çayır"
+  title: "Hukuk <br/><br/>Kayıtlı E-Posta Kullanım Sürecinde Ortaya Çıkabilecek Bazı Hukuki Durumlar, U. Köse, U. Köse <br/><br/>İnternet Ortamında Kişisel Verilerin Hukuka Aykırı Olarak İfşası, A.H. Doğu <br/><br/>Kişisel Verilerin Korunması Kanunu Ve Uygulamaları, F. Çayır"
   service: true
 -
   id: 024
-  title: "Ağ teknolojilerinde yeni yaklaşımlar ve SDN G. Akın"
+  title: "Ağ teknolojilerinde yeni yaklaşımlar ve SDN, G. Akın"
   subtype: presentation
   language: seminer
 -
@@ -132,11 +132,11 @@
   language: panel
 -
   id: 026
-  title: "Bilgi Sistemleri Literatüründe 19962015 Arasında Kullanılan Anahtar Kelimelerin Analizi, İ.Kabasakal<br/><br/>24: Ekran Çağı İnsanı ve Dijital Toplum, D. Çalık, G. Toker <br/><br/>20: Yeni Medya Okuryazarlığını Anlamak: Sosyo-Kültürel Bir Çerçeve, A.A. Çobaner, B. Gülgün <br/><br/>50: Türkiye’deki Üniversitelerin Mobil Uygulamalarının İncelenmesi, E. Aydemir "
+  title: "Bilgi Sistemleri Literatüründe 1996-2015 Arasında Kullanılan Anahtar Kelimelerin Analizi, İ.Kabasakal<br/><br/>Ekran Çağı İnsanı ve Dijital Toplum, D. Çalık, G. Toker <br/><br/>Yeni Medya Okuryazarlığını Anlamak: Sosyo-Kültürel Bir Çerçeve, A.A. Çobaner, B. Gülgün <br/><br/>Türkiye’deki Üniversitelerin Mobil Uygulamalarının İncelenmesi, E. Aydemir "
   service: true
 -
   id: 027
-  title: "Neden Yüksek Başarımlı Hesaplama?<br/><br/>76: Sanal switch (ovs, bare metal switch) B. Demircioğlu"
+  title: "Neden Yüksek Başarımlı Hesaplama?<br/><br/>Sanal switch (ovs, bare metal switch) B. Demircioğlu"
   subtype: presentation
   language: seminer
 -
