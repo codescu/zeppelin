@@ -17,139 +17,139 @@
   subtype: presentation
 -
   id: 002
-  title: "Türkiye’de Aktif İnternet Kullanım Eğilimleri: 2004-2014 Dönemi, E Kara, S. Eşfer, K. Çağıltay <br/><br/>Türkiye'de Televizyon Yayıncılığının Yeni Medya Stratejileri, E. Ş. Dikmen"
+  title: "Türkiye’de Aktif İnternet Kullanım Eğilimleri: 2004-2014 Dönemi <i>E Kara, S. Eşfer, K. Çağıltay</i><br/><br/>Türkiye'de Televizyon Yayıncılığının Yeni Medya Stratejileri, E. Ş. Dikmen"
   description: ""
   service: true
 -
   id: 003
-  title: "EnGerek Kimlik Yönetim Sistemi,   M.M. Çekiç, M. Ceylan <br/><br/>LiderAhenk Merkezi Yönetim Uygulaması, İ. Başaran "
+  title: "EnGerek Kimlik Yönetim Sistemi <i>M.M. Çekiç, M. Ceylan</i><br/><br/>LiderAhenk Merkezi Yönetim Uygulaması <i>İ. Başaran</i>"
   description: ""
   service: true
 -
   id: 004
-  title: "Özgür İnternet <br/>B. Büyükakyol"
+  title: "Özgür İnternet <br/><i>B. Büyükakyol</i>"
   subtype: presentation
   language: seminer
 -
   id: 005
-  title: "Kadın Bilişimciler<br/><br/>Kadın Bilişimciler-Cam Tavanı Aşmak <br/>C. Ünal, F. Nebil, R. Ayfer, N. Sayarı, Ş. Özşamlı"
+  title: "Kadın Bilişimciler<br/><br/>Kadın Bilişimciler-Cam Tavanı Aşmak <br/><i>C. Ünal, F. Nebil, R. Ayfer, N. Sayarı, Ş. Özşamlı</i>"
   subtype: workshop
   language: panel
 -
   id: 006
-  title: "e-Devlet Kapısı ve Sosyo Ekonomik Faydaları, A. Savaş<br/><br/>Ahtapot Açık Kaynak Kodlu Bütünleşik Siber Güvenlik Sistemi, M. Aydın, U. Çil "
+  title: "e-Devlet Kapısı ve Sosyo Ekonomik Faydaları <i>A. Savaş</i><br/><br/>Ahtapot Açık Kaynak Kodlu Bütünleşik Siber Güvenlik Sistemi <i>M. Aydın, U. Çil</i>"
   service: true
 -
   id: 007
-  title: "Internet Ortamında Gözetim ve Denetim M. Kırlıdoğ"
+  title: "Internet Ortamında Gözetim ve Denetim <i>M. Kırlıdoğ</i>"
   subtype: presentation
   language: seminer
 -
   id: 008
-  title: "Altyapı Türkiyenin İnternet Altyapısı Bilgi Toplumuna Hazır mı? Ne Yapılmalı? M. U. Çağlayan, Y. A. Arıak,  C. Çelebiler, F. S. Nebil, İ. Tabak"
+  title: "Altyapı Türkiyenin İnternet Altyapısı Bilgi Toplumuna Hazır mı? Ne Yapılmalı?<br/><i>M. U. Çağlayan, Y. A. Arıak,  C. Çelebiler, F. S. Nebil, İ. Tabak</i>"
   subtype: workshop
   language: panel
 -
   id: 009
-  title: "Türkiye'de Açık ve Uzaktan Öğrenmenin Sorunları Paneli C. H. Aydın, C. Çelik, L. Şahin C. M. Kandemir, A. E. Özkul "
+  title: "Türkiye'de Açık ve Uzaktan Öğrenmenin Sorunları Paneli <br/><i>C. H. Aydın, C. Çelik, L. Şahin C. M. Kandemir, A. E. Özkul</i>"
   subtype: workshop
   language: panel
 -
   id: 010
-  title: "Toplumsal Hareketler - Yeni Medya Belgeseli - Etkileşimli Veritabanı Belgeseli E. Ocak "
+  title: "Toplumsal Hareketler - Yeni Medya Belgeseli - Etkileşimli Veritabanı Belgeseli <i>E. Ocak</i>"
   subtype: presentation
   language: seminer
 -
   id: 011
-  title: "E-öğrenme<br/><br/>Özel Yetenekli Öğrencilerin Eğitiminde Sanal Gerçeklik Kullanımı, H. Tutaysalgır<br/><br/>Lise Öğrencilerinde İnternet Kullanımı ve İnternet Bağımlılığı, S. Fariz <br/><br/>“Dijital Oyun Bağımlılığı” ve Ötesi: Dijital Oyunları Nasıl Anlatmalı?, P. Koç "
+  title: "E-öğrenme<br/><br/>Özel Yetenekli Öğrencilerin Eğitiminde Sanal Gerçeklik Kullanımı <i>H. Tutaysalgır</i><br/><br/>Lise Öğrencilerinde İnternet Kullanımı ve İnternet Bağımlılığı <i>S. Fariz</i><br/><br/>“Dijital Oyun Bağımlılığı” ve Ötesi: Dijital Oyunları Nasıl Anlatmalı? <i>P. Koç</i>"
   service: true
 -
   id: 012
-  title: "Nesnelerin Interneti ve Büyük Veri'nin IT Hizmet Yönetimi Süreçlerine Olası Etkileri, E. Altın <br/><br/>Mobil Cihazlar İçin Son Kullanma Tarihli Gıda Analizi, Ü. Köse, A. Çınar <br/><br/>Ziyaretçi Logları İle Oluşturulan Veri Kümesinden Semantik Web Çıkarımları, A. Tabanlıoğlu İ. Türker, M. Öğretmen M.C. Tok"
+  title: "Nesnelerin Interneti ve Büyük Veri'nin IT Hizmet Yönetimi Süreçlerine Olası Etkileri <i>E. Altın</i><br/><br/>Mobil Cihazlar İçin Son Kullanma Tarihli Gıda Analizi <i>Ü. Köse, A. Çınar</i><br/><br/>Ziyaretçi Logları İle Oluşturulan Veri Kümesinden Semantik Web Çıkarımları <i>A. Tabanlıoğlu İ. Türker, M. Öğretmen M.C. Tok</i>"
   service: true
 -
   id: 013
-  title: "Spor Haberciliği ve Twitter: Ulusal Spor Gazeteleri Üzerine Bir Araştırma, D.D. Kürkçü <br/><br/>Ağ Toplumunda Çeviri Odaklı Demokratik Pratikler, E.B. Demirel, Z. Görgüler,D. Kurmel <br/><br/>E-Demokrasi: Yeni Nesil Doğrudan Demokrasi ve Türkiye’deki Uygulanabilirliği, U.C. Çabuk,A. Çavdar,E. Demir"
+  title: "Spor Haberciliği ve Twitter: Ulusal Spor Gazeteleri Üzerine Bir Araştırma, <i>D.D. Kürkçü</i><br/><br/>Ağ Toplumunda Çeviri Odaklı Demokratik Pratikler <i>E.B. Demirel, Z. Görgüler,D. Kurmel</i><br/><br/>E-Demokrasi: Yeni Nesil Doğrudan Demokrasi ve Türkiye’deki Uygulanabilirliği <i>U.C. Çabuk,A. Çavdar,E. Demir</i>"
   service: true
 -
   id: 014
-  title: "Sosyal Ağlar Tarihi B. Ayan"
+  title: "GNU/Linux Masaüstü <br/><br/><i>B. Büyükakyol</i>"
   subtype: presentation
   language: seminer
 -
   id: 015
-  title: "Erişim Engellemeleri ve Sansür Paneli A. G. Akbaş, Ö. Muzaç,F. Çayır Y. Aydın,M. Kırlıdoğ"
+  title: "Erişim Engellemeleri ve Sansür Paneli<br/><i>A. G. Akbaş, Ö. Muzaç,F. Çayır Y. Aydın,M. Kırlıdoğ</i>"
   subtype: presentation
   language: panel
 -
   id: 016
-  title: "GNU/Linux Masaüstü, B. Büyükakyol"
+  title: "Sosyal Ağlar Tarihi<br/><i>B. Ayan</i>"
   subtype: presentation
   language: seminer
 -
   id: 017
-  title: "O.B.: M. Binark <br/>Sosyal Medya Ortamlarindan Veri Toplanmasi ve Etik<br/>M. Binark,H. Yalçın Ş. Karataş, T. Çomu"
+  title: "Sosyal Medya Ortamlarindan Veri Toplanmasi ve Etik<br/><i>M. Binark,H. Yalçın, Ş. Karataş, T. Çomu, A.T Aydemir, P.Dağ, K. Öztürk</i>"
   subtype: presentation
   language: panel
 -
   id: 018
-  title: "Bir Adli Bilişim Senaryosu,  M. Kırlıdoğ"
+  title: "Bir Adli Bilişim Senaryosu <i>M. Kırlıdoğ</i>"
   subtype: presentation
   language: seminer
 -
   id: 019
-  title: "Türkiye’de Dijital Hikaye Anlatımında Güncel Tartışmalar B. Şimşek, Ş. İnce, E. Sertalp"
+  title: "Türkiye’de Dijital Hikaye Anlatımında Güncel Tartışmalar <i>B. Şimşek, Ş. İnce, E. Sertalp</i>"
   subtype: presentation
   language: panel
 -
   id: 020
-  title: "Microservices, Cloud, DevOps nedir ? F. Yarcı <br/><br/>IoT Uygulamaları için MQTT Protokolü, G. Yıldırım <br/><br/>Özgür yazılım ucuz mu? Ucuz olmalı mı?, N. Yücel"
-  subtype: presentation
-  language: seminer
--
-  id: 021
-  title: "Açık Öğretim ISOC - TR Çevrimiçi Çocuk Projesi F. Demirel, C. Ünal"
+  title: "ISOC - TR Çevrimiçi Çocuk Projesi <i>F. Demirel, C. Ünal</i>"
   subtype: presentation
   language: panel
 -
+  id: 021
+  title: "Microservices, Cloud, DevOps nedir ? <i>F. Yarcı</i><br/><br/>IoT Uygulamaları için MQTT Protokolü <i>G. Yıldırım</i><br/><br/>Özgür yazılım ucuz mu? Ucuz olmalı mı? <i>N. Yücel</i>"
+  subtype: presentation
+  language: seminer
+-
   id: 022
-  title: "Sosyal Medya ve Sağlık Paneli A. Alpkoçak, A. E. Esatoğlu M. Ülgü"
+  title: "Sosyal Medya ve Sağlık Paneli<br/><i>A. Alpkoçak, A. E. Esatoğlu M. Ülgü</i>"
   subtype: presentation
   language: panel
 -
   id: 023
-  title: "Hukuk <br/><br/>Kayıtlı E-Posta Kullanım Sürecinde Ortaya Çıkabilecek Bazı Hukuki Durumlar, U. Köse, U. Köse <br/><br/>İnternet Ortamında Kişisel Verilerin Hukuka Aykırı Olarak İfşası, A.H. Doğu <br/><br/>Kişisel Verilerin Korunması Kanunu Ve Uygulamaları, F. Çayır"
+  title: "Hukuk<br/><br/>Kayıtlı E-Posta Kullanım Sürecinde Ortaya Çıkabilecek Bazı Hukuki Durumlar <i>U. Köse, U. Köse</i><br/><br/>İnternet Ortamında Kişisel Verilerin Hukuka Aykırı Olarak İfşası <i>A.H. Doğu</i><br/><br/>Kişisel Verilerin Korunması Kanunu Ve Uygulamaları <i>F. Çayır</i>"
   service: true
 -
   id: 024
-  title: "Ağ teknolojilerinde yeni yaklaşımlar ve SDN, G. Akın"
+  title: "Ağ teknolojilerinde yeni yaklaşımlar ve SDN <br/> <i>G. Akın</i>"
   subtype: presentation
   language: seminer
 -
   id: 025
-  title: "Endüstriyel İnternet: Türkiye için Riskler ve Fırsatlar U. Sahbaz, E. Caglar, O. Acar U. Gur, K. Caliskan"
+  title: "Endüstriyel İnternet: Türkiye için Riskler ve Fırsatlar <i>U. Sahbaz, E. Caglar, O. Acar U. Gur, K. Caliskan</i>"
   subtype: presentation
   language: panel
 -
   id: 026
-  title: "Bilgi Sistemleri Literatüründe 1996-2015 Arasında Kullanılan Anahtar Kelimelerin Analizi, İ.Kabasakal<br/><br/>Ekran Çağı İnsanı ve Dijital Toplum, D. Çalık, G. Toker <br/><br/>Yeni Medya Okuryazarlığını Anlamak: Sosyo-Kültürel Bir Çerçeve, A.A. Çobaner, B. Gülgün <br/><br/>Türkiye’deki Üniversitelerin Mobil Uygulamalarının İncelenmesi, E. Aydemir "
+  title: "Bilgi Sistemleri Literatüründe 1996-2015 Arasında Kullanılan Anahtar Kelimelerin Analizi, <i>İ.Kabasakal</i><br/><br/>Ekran Çağı İnsanı ve Dijital Toplum <i>D. Çalık, G. Toker</i><br/><br/>Yeni Medya Okuryazarlığını Anlamak: Sosyo-Kültürel Bir Çerçeve <i>A.A. Çobaner, B. Gülgün</i><br/><br/>Türkiye’deki Üniversitelerin Mobil Uygulamalarının İncelenmesi <i>E. Aydemir</i> "
   service: true
 -
   id: 027
-  title: "Neden Yüksek Başarımlı Hesaplama?<br/><br/>Sanal switch (ovs, bare metal switch) B. Demircioğlu"
+  title: "Neden Yüksek Başarımlı Hesaplama?<br/><br/>76: Sanal switch (ovs, bare metal switch) <i>B. Demircioğlu</i>"
   subtype: presentation
   language: seminer
 -
   id: 028
-  title: "O.B.: M. Akgül<br/><br/>Dijital Ekonomi veya Endüstri 4.0 mı?: Tüketicinin Üretici olarak Emek Gücüne Dönüşmesi Olgusu M.  Binark, E. Bulut  S. Toros, R. Ünal"
+  title: "Dijital Ekonomi veya Endüstri 4.0 mı?: Tüketicinin Üretici olarak Emek Gücüne Dönüşmesi Olgusu <i>M. Binark, E. Bulut  S. Toros, R. Ünal</i>"
   subtype: presentation
   language: panel
 -
   id: 029
-  title: "Artırılmış Gerçeklik'in Turizmde Kullanımı, E. Sertalp <br/><br/>Sanal Gerçeklik ile E-ticaret Sistemi, A. Durgut <br/><br/>Kablosuz Sensör Ağlari ile Akilli Sistem Ev Modeli, M.A. Kutlugün,  M.Y Çakır<br/><br/>Raspberry Pi ile Süper Bilgisayar yapımı, M. Akçay, T. Orak"
+  title: "Artırılmış Gerçeklik'in Turizmde Kullanımı, E. Sertalp <br/><br/>Sanal Gerçeklik ile E-ticaret Sistemi <i>A. Durgut</i><br/><br/>Kablosuz Sensör Ağlari ile Akilli Sistem Ev Modeli <i>M.A. Kutlugün,  M.Y Çakır</i><br/><br/>Raspberry Pi ile Süper Bilgisayar yapımı <i>M. Akçay, T. Orak</i>"
   service: true
 -
   id: 030
-  title: "Networkte yazılım bilgisi C.T. Bozkurt"
+  title: "Networkte yazılım bilgisi <i>C.T. Bozkurt</i>"
   subtype: presentation
   language: seminer
